@@ -23,6 +23,3 @@ currently pursuing a **Diploma in Artificial Intelligence** 🤖
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-soto-mutoli/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fsotomutoli)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsotomutoli&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
