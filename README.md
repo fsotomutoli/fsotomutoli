@@ -18,6 +18,11 @@ currently pursuing a **Diploma in Artificial Intelligence** 🤖
 ![AI/LLMs](https://img.shields.io/badge/-AI%20%2F%20LLMs-FF6B6B?style=flat)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat)
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco_soto_mutoli/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fsotomutoli)
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsotomutoli&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsotomutoli&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
