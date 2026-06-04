@@ -1,7 +1,7 @@
 # Hi, I'm Francisco Soto 👋
 
 **Industrial Civil Engineer** with a specialization in Information Technologies,
-currently pursuing a **Diploma in Artificial Intelligence** 🤖
+currently pursuing a **Diploma in Artificial Intelligence, emergent technologies and digital leadership** 🤖
 
 ## About Me
 
