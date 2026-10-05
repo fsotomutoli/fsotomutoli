@@ -5,7 +5,7 @@ currently pursuing a **Diploma in Artificial Intelligence, emergent technologies
 
 ## About Me
 
-- 💼 **Currently job hunting**
+- 💼 **ProdOps Specliast at Buk**
 - 🧠 Exploring the intersection of **AI, automation, and business strategy**
 - 🎮 Big believer that **gamification** is the best way to build lasting habits
 - 🛠️ Actively building tools with **LLMs and Claude Code**
